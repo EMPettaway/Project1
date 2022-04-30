@@ -1,0 +1,43 @@
+.description {
+    text-align: center;
+}
+
+.score {
+    text-align: right;
+}
+
+.timer {
+    text-align: left;
+}
+
+.game-board {
+    max-width: 50%;
+    max-height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    border-radius: 0.3em;
+    box-shadow: 0 5px 5px gray;
+}
+
+.game-grid-row {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.game-card {
+    width: 4.5em;
+    height: 4.5em;
+    background-color: #212121;
+    border-radius: 0.3em;
+    margin: 0.8em;
+    box-shadow: 2px 0 10px #212121;
+    cursor: pointer;
+}
+
+.game-card-img {
+    /* visibility: hidden; */
+    object-fit: cover;
+    width: 4.5em;
+    height: 4.5em;
+}
