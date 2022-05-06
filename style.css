@@ -1,13 +1,36 @@
 .description {
     text-align: center;
+    color: red;
+    font-size: 30px;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
+.start {
+   max-width: 50%;
+   max-height: 90;
+}
+
+body {
+        background: url(emoji-bg-2.jpeg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      }
+      /* use csstricks to fit background to the entire screen.  */
+/* 
 .score {
     text-align: right;
-}
+    color: red;
+    font-size: 30px;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+} */
 
 .timer {
-    text-align: left;
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
 .game-board {
@@ -36,7 +59,7 @@
 }
 
 .game-card-img {
-    /* visibility: hidden; */
+    visibility: hidden;
     object-fit: cover;
     width: 4.5em;
     height: 4.5em;
