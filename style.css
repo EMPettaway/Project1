@@ -5,13 +5,13 @@
     text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
-.start {
+/* .start {
    max-width: 50%;
    max-height: 90;
-}
+} */
 
 body {
-        background: url(emoji-bg-2.jpeg) no-repeat center center fixed; 
+        background: url(assets/emoji-bg-2.jpeg) no-repeat center center fixed; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -26,12 +26,24 @@ body {
     text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 } */
 
-.timer {
+input {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#timer {
+    font-size: 30px;
+    color: red;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    text-align: center;
+}
+
+/* .timer {
     text-align: center;
     color: red;
     font-size: 30px;
     text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
-}
+} */
 
 .game-board {
     max-width: 50%;
