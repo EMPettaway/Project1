@@ -10,6 +10,10 @@ http://127.0.0.1:5502/
 •Press reset to restart the game
 
 **Screenshots
+<img width="1440" alt="Screen Shot 2022-05-07 at 8 50 25 AM" src="https://user-images.githubusercontent.com/101517274/167256582-fea6b677-8319-4e6e-8a7b-9b6cf754ce32.png">
+
+<img width="1440" alt="Screen Shot 2022-05-07 at 8 53 59 AM" src="https://user-images.githubusercontent.com/101517274/167256589-72f0f7d8-502d-43d2-beac-19b538bd2fd8.png">
+
 
 **Technologies Used
 This project was written in VSCode using HTML, CSS, and JavaScript.
@@ -36,3 +40,7 @@ Stretch Goals
 -As a player, I would like an animation as time expires showing how well I did.
 
 **Wireframes
+<img width="954" alt="Screen Shot 2022-04-27 at 9 08 00 PM" src="https://user-images.githubusercontent.com/101517274/167256598-63a9b08d-fde1-41e9-ae26-643b6a351398.png">
+
+<img width="912" alt="Screen Shot 2022-04-27 at 9 09 24 PM" src="https://user-images.githubusercontent.com/101517274/167256607-4b196d9a-4ac3-41f3-80a5-797708fbedd7.png">
+
