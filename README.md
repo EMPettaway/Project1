@@ -3,7 +3,7 @@
 
 An Emoji themed match game
 
-http://127.0.0.1:5502/
+(https://empettaway.github.io/Project1/)
 
 •There are 16 squares
 •Find all 8 pairs in one go in the shortest amount of time
